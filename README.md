@@ -5,7 +5,7 @@
 - Block User Notifications (But Not Comments)
 
 ## How To Install
-1. **Download** [`Suno‑Block‑User_1.0.zip`](./Suno-Block-User_1.0.zip).
+1. **Download** [`Suno‑Block‑User_1.0.zip`](./Suno‑Block‑User_1.0.zip).
 2. **Extract** the ZIP file. This creates a folder with the same name. Remember where this folder is.
 3. In Chrome, open the Extensions menu (or go to `chrome://extensions`) and switch **Developer mode** **ON** (top‑right toggle).
 4. Click **Load unpacked** in the top left. Choose the folder you just extracted.
